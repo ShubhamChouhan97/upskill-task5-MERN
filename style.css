@@ -1,0 +1,73 @@
+.contenir{
+    height: 97vh;
+    display: flex;
+    background-color:black;
+}
+.left-contenir{
+    background-image: url('https://img.freepik.com/premium-vector/laundry-service-logo-template-design-vector_20029-973.jpg?w=740');
+    height: 97vh;
+    width: 50vw;
+}
+.right-contenir{
+    float: right;
+    height: 97vh;
+    width: 50vw;
+    background-color: #e2e6e9;
+}
+.heading-section{
+    display: inline-block;
+    text-align: center;
+    margin: 60px;
+    margin-left: 260px;
+
+}
+
+.heading-section h3{
+    color: #9aa6ae;
+}
+
+.detail-form{
+    margin-left: 150px;
+}
+.detail-form label{
+    color:#727576 ;
+    font-size: x-large;
+}
+
+.input-sec{
+    padding-left: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    background-color: white;
+    height: 7vh;
+    width: 25vw;
+
+}
+.for-pass{
+    float: right;
+    margin-right: 13vw;
+    padding-top: 10px;
+    color: blue;
+    font-size: x-large;
+    cursor: pointer;
+}
+.login-btn{
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    width: 26vw;
+    height: 6vh;
+    font-size: x-large;
+}
+.ragptag{
+    justify-content: center;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+.ragistertab{
+    color: blue;
+    
+}
